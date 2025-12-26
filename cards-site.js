@@ -4,7 +4,7 @@ const cardsData = {
     1: {
         text: "I love you Mariomty ❤️",
         image: "images/photo1.jpg",
-        audio: "media/voice1.mp3"
+        audio: "voice1.mp3"
 
     },
 
@@ -23,3 +23,4 @@ const cardsData = {
     }
 
 };
+
